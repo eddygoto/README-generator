@@ -15,9 +15,10 @@ This project uses inquirer. Use npm install in order to install all dependencies
 3. A professional README.md file will be generated in your Develop folder.
 
 The script can be found on https://github.com/eddygoto/README-Generator.
-[!Screenshot](/assets/Screen%20Shot%202023-03-19%20at%207.30.59%20PM.png)
+![Screenshot](/assets/Screen%20Shot%202023-03-19%20at%207.30.59%20PM.png)
 
-[!Video](/assets/readme.mp4)
+The following link takes you to a recorded demo:
+https://watch.screencastify.com/v/cpzFU7fr3vi4pLnFWIro
 
 ## Credits
 
