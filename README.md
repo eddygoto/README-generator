@@ -17,7 +17,7 @@ This project uses inquirer. Use npm install in order to install all dependencies
 The script can be found on https://github.com/eddygoto/README-Generator.
 [!Screenshot](/assets/Screen%20Shot%202023-03-19%20at%207.30.59%20PM.png)
 
-[!Video](https://watch.screencastify.com/v/cpzFU7fr3vi4pLnFWIro)
+[!Video](/assets/readme.webm)
 
 ## Credits
 
